@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="load_error_message">Error loading content.</string>
+    <string name="retry_button_label">Retry</string>
+</resources>
